@@ -100,18 +100,3 @@ The dataset consists of labeled images of **plastic** and **glass** waste. You c
 - Deploy the model on edge devices
 
 ---
-
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 🙌 Acknowledgements
-
-- TensorFlow and Keras community
-- Dataset contributors
-- Environmental AI initiatives
-
----
-
