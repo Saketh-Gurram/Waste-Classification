@@ -115,12 +115,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 👤 Author
-
-**Saketh Gurram**  
-📍 VIT Chennai  
-🔗 [GitHub](https://github.com/Saketh-Gurram)
-
----
-
-⭐ If you found this useful, consider giving the repo a star!
